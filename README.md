@@ -34,11 +34,12 @@ da je bluetooth uključen, u suprotnom aplikacija neće reagirati. Nadalje ako s
 
 ## Literatura
 ### Android Beacon library
-https://altbeacon.github.io/android-beacon-library/javadoc/org/altbeacon/beacon/package-summary.html
-https://altbeacon.github.io/android-beacon-library/
+ https://altbeacon.github.io/android-beacon-library/javadoc/org/altbeacon/beacon/package-summary.html
+ https://altbeacon.github.io/android-beacon-library/
 ### Bluetooth Classic
-https://developer.android.com/guide/topics/connectivity/bluetooth.html
+ https://developer.android.com/guide/topics/connectivity/bluetooth.html
 ### Bluetooth low energy
-https://developer.android.com/guide/topics/connectivity/bluetooth-le.html
-http://toastdroid.com/2014/09/22/android-bluetooth-low-energy-tutorial/
-https://learn.adafruit.com/introduction-to-bluetooth-low-energy/gatt
+ https://developer.android.com/guide/topics/connectivity/bluetooth-le.html 
+ https://learn.adafruit.com/introduction-to-bluetooth-low-energy/gatt
+ http://toastdroid.com/2014/09/22/android-bluetooth-low-energy-tutorial/
+
