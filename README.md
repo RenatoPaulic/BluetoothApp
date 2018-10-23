@@ -8,7 +8,7 @@ veću količinu podataka(programski je određeno da to bude izabrana slika iz ga
 ponaša se kao uređaj koji može odgovoriti na upite "centralnih" uređaja o tome da li može pružiti traženu uslugu i po 
 potrebi primiti veću količinu podataka.
 
-## Upute o korištenju
+## Upute za korištenje
 Pri pokretanju aplikacije otvara se početni prozor s dva gumba("SCAN" i "TRANSMIT") koji služe kao odabir na koji će se način mobilni uređaj ponašati("centralni" ili "periferni"). Klikom na gumb "SCAN" uređaj prelazi u prvi("centralni") način rada u kojim skenira, tj. detektira ostale "periferne" uređaje u blizini i po potrebi šalje upite za određene usluge koje uređaj zahtjeva. Na prozoru se nalaze 3 gumba ("START SCAN", "SHOW SENDING FILE SIZE", "CONFIRM TEXT ENTRY") i prostor za unos teksta. Odabirom gumba "START SCAN" pokreće se skeniranje "perifernih" uređaja u blizini kojima se može poslati upit za traženom uslugom. Uređaj detektira beacone koje drugi "periferni" uređaju emitiraju. Ispod prostora za unos tekst pojavljuju se podaci o detektiranim beaconima. Za svaki beacon može se
 vidjeti:
 * Distance - udaljenost od uređaja koji emitira beacon(uglavnom netočna i treba je zanemariti)
